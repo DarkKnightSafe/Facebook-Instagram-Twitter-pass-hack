@@ -1,2 +1,6 @@
-# Facebook-Instagram-Twitter-pass-hack
-Brute Force For Facebook,Instagram &amp; Twitter
+### No longer maintained, use [hyrPulse](https://github.com/Ethical-H4CK3R/hyprPulse) instead
+
+# Usage
+python pulse.py [site] [username] [wordlist]
+
+**python pulse.py Instagram username103 pass.lst**
