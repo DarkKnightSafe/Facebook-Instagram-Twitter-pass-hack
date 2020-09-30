@@ -8,6 +8,7 @@ import os
 import time
 import argparse
 import threading
+import numpy
 import subprocess
 from platform import platform
 from Core.tor import TorManager
@@ -187,6 +188,7 @@ class Bruter(TorManager,Browser):
   print '  {}[-] Username: {}{}'.format(self.n,creds,self.username.title())
   print '  {}[-] Password: {}{}'.format(self.n,creds,pwd)
   print '  {}[-] Attempts: {}{}'.format(self.n,self.b,attempts)
+  print '\n'
 
   if self.siteName == 'Facebook':
    print '  {}[-] Account Locked: {}{}'.format(self.n,color,self.locked)
