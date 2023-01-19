@@ -1,6 +1,2 @@
-### No longer maintained, use [hyrPulse](https://github.com/Ethical-H4CK3R/hyprPulse) instead
-
-# Usage
-python pulse.py [site] [username] [wordlist]
-
-**python pulse.py Instagram username103 pass.lst**
+# Facebook-Instagram-Twitter-pass-hack
+This repo are about from Facabook Instagram and Twitter Password Geting Information.
